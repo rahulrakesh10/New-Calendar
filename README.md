@@ -3,7 +3,7 @@
 
 Continuous Calendar is a bare-bones calendar built with React and Tailwindcss. It does not include event creation and display, as that's left up to your discretion.
 
-[Live Demo](https://continuous-calendar.vercel.app/)
+### [Live Demo](https://continuous-calendar.vercel.app/)
 
 ### So what does it do? ✨
 
