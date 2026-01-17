@@ -62,13 +62,6 @@ The height and width of the calendar component rely on a parent wrapper. Please 
 If you wish to contribute to this project, clone the repo and run it locally using `npm run dev`.
 
 
-## Screenshots
-
-![App Screenshot](https://i.postimg.cc/7qtz4srV/Screenshot-2024-08-19-at-10-28-57-PM.png)
-
-![App Screenshot](https://i.postimg.cc/Q843fyB2/Screenshot-2024-08-19-at-10-36-31-PM.png)
-
-![App Screenshot](https://github.com/user-attachments/assets/859cd344-8e53-4061-982d-63aff1da121b)
 
 ## Inspiration
 
