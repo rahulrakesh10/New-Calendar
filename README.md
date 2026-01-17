@@ -57,14 +57,5 @@ onClick | Optional | `(day:number, month: number, year: number) => void;` | Trig
 
 The height and width of the calendar component rely on a parent wrapper. Please refer to `components/DemoWrapper.tsx` as an example of how to structure your React component to achieve your desired calendar size.
 
-### Contribution 🔮
-
-If you wish to contribute to this project, clone the repo and run it locally using `npm run dev`.
 
 
-
-## Inspiration
-
-![App Screenshot](https://i.postimg.cc/qk1gyQGF/Screenshot-2024-08-19-at-10-45-56-PM.png)
-
-# New-Calendar
