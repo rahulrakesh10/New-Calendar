@@ -47,15 +47,4 @@ select {
 }
 ```
 
-### Props ❄️
-
-Prop | Required | Type | Description
---- | --- | --- | --- |
-onClick | Optional | `(day:number, month: number, year: number) => void;` | Triggered whenever the user clicks a day on the calendar. |
-
-### Height and Width 🎨
-
-The height and width of the calendar component rely on a parent wrapper. Please refer to `components/DemoWrapper.tsx` as an example of how to structure your React component to achieve your desired calendar size.
-
-
 
